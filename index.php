@@ -30,7 +30,7 @@ if (isset($hitung)) {
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tugas 6 Rizki Dwi Ramadhan</title>
+    <title>Program Kalkulator</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
