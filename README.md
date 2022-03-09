@@ -33,7 +33,7 @@ Berikut struktur folder dalam aplikasi ini:
     > *C:\xampp\htdocs*  (Windows). ```
 2. Jalankan *XAMPP -> Apache*.
 3. Buka Browser ketikan 
-   > *localhost/ProgramCalculatorPHP*.
+   > *localhost/ProgramKalkulator*.
 
 ## Credits
 
