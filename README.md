@@ -1,8 +1,6 @@
-# Program kalkulator Sederhana
+# Program Kalkulator Sederhana
 
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 
 
 Program Kalkulator ini dibuat untuk membantu menghitung . Program ini dibuat menggunakan bahasa pemrograman **HTML (Hypertext Markup Language)**, **CSS (Cascading Style Sheet)** dan **PHP (Hypertext Preprocessor)**. 
@@ -31,7 +29,7 @@ Berikut struktur folder dalam aplikasi ini:
 
 1. Letakan folder **ProgramKalkulator** ke dalam 
     > *C:\xampp\htdocs*  (Windows). ```
-2. Jalankan *XAMPP -> Apache*.
+2. Jalankan *XAMPP -> Apache and MySQL*.
 3. Buka Browser ketikan 
    > *localhost/ProgramKalkulator*.
 
